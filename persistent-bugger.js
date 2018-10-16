@@ -12,3 +12,5 @@ function persistence(num) {
 
   return multipliedCount;
 }
+
+console.log(persistence([5, 10]));
